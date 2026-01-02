@@ -1,7 +1,16 @@
-import './bootstrap';
+// import './bootstrap';
+// import Alpine from 'alpinejs';
+// window.Alpine = Alpine;
+// Alpine.start();
 
-import Alpine from 'alpinejs';
+// إذا لديك jQuery
+import './jquery.min.js';
 
-window.Alpine = Alpine;
+// باقي ملفات JS
+import './bootstrap.min.js';
+import './counter.js';
+import './isotope.min.js';
+import './owl-carousel.js';
+import './custom.js';
 
-Alpine.start();
+console.log('Assets loaded correctly ✅');

@@ -1,3 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* استيراد جميع ملفات CSS */
+@import './bootstrap.min.css';
+@import './animate.css';
+@import './flex-slider.css';
+@import './fontawesome.css';
+@import './owl.css';
+@import './templatemo-gaming.css';
