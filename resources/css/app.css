@@ -5,3 +5,8 @@
 @import './fontawesome.css';
 @import './owl.css';
 @import './templatemo-gaming.css';
+
+
+html, body {
+    font-family: 'Poppins', sans-serif;
+}
